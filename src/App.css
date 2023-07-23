@@ -1,6 +1,20 @@
 .App {
   text-align: center;
 }
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 50%;
+}
+.bouton{
+  margin-left:20px;
+}
 
 .App-logo {
   height: 40vmin;
